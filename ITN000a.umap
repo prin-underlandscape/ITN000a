@@ -6809,7 +6809,9 @@
             "Ora": "",
             "Autore": "",
             "Tag primario": "Attrazione naturalistica",
-            "Altri tag": "",
+            "Altri tag": [
+              "Monumento"
+            ],
             "_umap_options": {
               "popupTemplate": "Default",
               "color": "DarkGoldenRod",
