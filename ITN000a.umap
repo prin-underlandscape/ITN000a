@@ -653,7 +653,7 @@
             "Descrizione": "",
             "Data": "30/04/2023",
             "ulsp_type": "POI",
-            "Titolo": "Monumento ai caduti",
+            "Titolo": "Monumento ai Caduti",
             "Altitudine": "550",
             "Foto": "",
             "Strumento": "",
@@ -667,7 +667,7 @@
               "popupTemplate": "Default",
               "color": "MediumPurple",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/monument.svg"
+              "iconUrl": "/uploads/pictogram/monument.svg"
             }
           },
           "geometry": {
@@ -700,7 +700,7 @@
               "popupTemplate": "Default",
               "color": "MediumPurple",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/museum.svg"
+              "iconUrl": "/uploads/pictogram/museum.svg"
             }
           },
           "geometry": {
@@ -734,7 +734,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/hotel.svg"
+              "iconUrl": "/uploads/pictogram/hotel.svg"
             }
           },
           "geometry": {
@@ -767,7 +767,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/playground.svg"
+              "iconUrl": "/uploads/pictogram/playground.svg"
             }
           },
           "geometry": {
@@ -798,7 +798,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/restaurant.svg"
+              "iconUrl": "/uploads/pictogram/restaurant.svg"
             }
           },
           "geometry": {
@@ -831,7 +831,7 @@
               "popupTemplate": "Default",
               "color": "Red",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/government.svg"
+              "iconUrl": "/uploads/pictogram/government.svg"
             }
           },
           "geometry": {
@@ -865,7 +865,7 @@
               "popupTemplate": "Default",
               "color": "Red",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/information.svg"
+              "iconUrl": "/uploads/pictogram/information.svg"
             }
           },
           "geometry": {
@@ -898,7 +898,7 @@
               "popupTemplate": "Default",
               "color": "Green",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/bus.svg"
+              "iconUrl": "/uploads/pictogram/bus.svg"
             }
           },
           "geometry": {
@@ -930,7 +930,7 @@
               "popupTemplate": "Default",
               "color": "Green",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/guide-post.svg"
+              "iconUrl": "/uploads/pictogram/guide-post.svg"
             }
           },
           "geometry": {
@@ -962,7 +962,7 @@
               "popupTemplate": "Default",
               "color": "DarkGoldenRod",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/mountain.svg"
+              "iconUrl": "/uploads/pictogram/mountain.svg"
             }
           },
           "geometry": {
@@ -994,7 +994,7 @@
               "popupTemplate": "Default",
               "color": "Sienna",
               "iconClass": "Drop",
-              "iconURL": "/uploads/pictogram/star.svg"
+              "iconUrl": "/uploads/pictogram/star.svg"
             }
           },
           "geometry": {

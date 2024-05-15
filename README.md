@@ -1,6 +1,6 @@
 # ITN000a (mappa non collegata)
 descrizione del dataset mancante
-## POI: Monumento ai caduti
+## POI: Monumento ai Caduti
 ****
 ## POI: Museo delle trottole
 ****
