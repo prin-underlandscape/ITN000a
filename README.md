@@ -1,5 +1,5 @@
 # ITN000a (mappa non collegata)
-descrizione del dataset mancante
+Dataset contenente i QRtag segnaletici collocati nell'area di Casoli 
 ## POI: Monumento ai Caduti
 ****
 ## POI: Museo delle trottole
@@ -26,3 +26,5 @@ descrizione del dataset mancante
 ****
 ## Sito: Metato
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
+## QRtag: Chiesa dei SS. Donato e Andrea
+[<img src='qrtags/lwtyx6.png' width='150'/>](qrtags/lwtyx6.png) ****
