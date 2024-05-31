@@ -1,4 +1,4 @@
-# ITN000a (mappa non collegata)
+# ITN000a ([mappa](x))
 Test con POI con tutti i tag, un sito, un percorso ed un QRtag
 ## Percorso: Escursione verso Cocciglia
 ****
