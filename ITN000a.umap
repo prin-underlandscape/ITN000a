@@ -58,7 +58,8 @@
             "Ora": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "LineString",
@@ -668,7 +669,8 @@
               "color": "Sienna",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/star.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -700,7 +702,8 @@
               "color": "Green",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/mountain.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -732,7 +735,8 @@
               "color": "Green",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/guidepost.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -765,7 +769,8 @@
               "color": "Red",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/bus.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -798,7 +803,8 @@
               "color": "Red",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/information.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -830,7 +836,8 @@
               "color": "Red",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/government.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -860,7 +867,8 @@
               "color": "DarkViolet",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/restaurant.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -891,8 +899,9 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/pitch.svg"
-            }
+              "iconUrl": "https://i.postimg.cc/FKBTtN7Q/trekking.png"
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -925,7 +934,8 @@
               "color": "DarkViolet",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/hotel.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -957,7 +967,8 @@
               "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/museum.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -989,7 +1000,8 @@
               "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/monument.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -1010,7 +1022,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   Github repository: {GitHubURL} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -1027,7 +1039,8 @@
             "Descrizione": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
@@ -1088,7 +1101,8 @@
             "Link": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000a"
           },
           "geometry": {
             "type": "Point",
