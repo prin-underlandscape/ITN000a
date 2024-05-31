@@ -697,7 +697,7 @@
             ],
             "_umap_options": {
               "popupTemplate": "Default",
-              "color": "DarkGoldenRod",
+              "color": "Green",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/mountain.svg"
             }
@@ -762,7 +762,7 @@
             ],
             "_umap_options": {
               "popupTemplate": "Default",
-              "color": "Green",
+              "color": "Red",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/bus.svg"
             }
@@ -891,7 +891,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/playground.svg"
+              "iconUrl": "/uploads/pictogram/pitch.svg"
             }
           },
           "geometry": {
@@ -954,7 +954,7 @@
             ],
             "_umap_options": {
               "popupTemplate": "Default",
-              "color": "MediumPurple",
+              "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/museum.svg"
             }
@@ -986,7 +986,7 @@
             ],
             "_umap_options": {
               "popupTemplate": "Default",
-              "color": "MediumPurple",
+              "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/monument.svg"
             }

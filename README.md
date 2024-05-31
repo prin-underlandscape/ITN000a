@@ -1,5 +1,5 @@
 # ITN000a (mappa non collegata)
-descrizione del dataset mancante
+Test con POI con tutti i tag, un sito, un percorso ed un QRtag
 ## Percorso: Escursione verso Cocciglia
 ****
 ## POI: Buca delle Streghe
